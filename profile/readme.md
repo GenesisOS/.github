@@ -18,3 +18,7 @@ Join Us
 Join us on the adventure of going Beyond Ordinary
 
 - [*Apply For Maintainership!*](https://www.genesisos.dev/joinus)
+
+Credits
+-
+Thanks to the whole custom ROM Community.
